@@ -1,0 +1,26 @@
+00:00:00,000 --> 00:00:04,266
+In this video, we're going to set up our SSH key so that we can use
+
+2
+00:00:04,266 --> 00:00:08,433
+SSH authentication with GitHub, once we set up our account.
+
+3
+00:00:08,433 --> 00:00:13,533
+So, if you're still in the "git-demo" repository, we're going to go back to our main user
+
+4
+00:00:13,533 --> 00:00:19,566
+directory; so, I'm going to type "cd ~" and that will take us back to our home directory.
+
+5
+00:00:19,566 --> 00:00:24,733
+So, if I type "pwd", you can see that I'm back in my root of my home directory.
+
+6
+00:00:24,733 --> 00:00:31,733
+Now, I'm going to see if I have a ".ssh" folder; which I don't, so I need to create
+
+7
+00:00:31,733 --> 00:00:37,566
+the ".ssh" folder, which will house our "ssh" keys. So I'm going to type
